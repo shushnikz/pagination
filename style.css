@@ -1,0 +1,26 @@
+.container{
+    margin-top: 10%;
+    padding: 10px;
+}
+
+tbody tr:nth-child(odd){
+    background-color: lightgrey;
+    margin: 0;
+}
+
+
+
+.buttons{
+    margin: 10px 400px 10px 500px;
+   
+}
+
+.page{
+    background-color: white;
+    justify-content: center;
+    padding: 10px;
+    appearance: none;
+    border: none;
+    outline: none;
+    font-weight: bold;
+}
